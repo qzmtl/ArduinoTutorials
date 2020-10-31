@@ -11,4 +11,8 @@
 ### 3. Arduino sensors tutorial
 ##### Code: <a href="https://github.com/curiores/ArduinoTutorials/blob/master/sensors/sensors.ino" target=”_blank”> sensors/sensors.ino </a> 
 <a href="https://youtu.be/q9UCSynDEw8"> <img src="https://img.youtube.com/vi/q9UCSynDEw8/0.jpg" width="200px"> </a>
+<br>
+### 3. Arduino sensors tutorial
+##### Code: <a href="https://github.com/curiores/ArduinoTutorials/blob/master/serialRGB/serialRGB.ino" target=”_blank”> serialRGB/serialRGB.ino </a> 
+
 
