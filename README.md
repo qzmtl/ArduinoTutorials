@@ -13,6 +13,6 @@
 <a href="https://youtu.be/q9UCSynDEw8"> <img src="https://img.youtube.com/vi/q9UCSynDEw8/0.jpg" width="200px"> </a>
 <br>
 ### 4. How to control a DC motor with an encoder
-##### Code: <a href="https://github.com/curiores/ArduinoTutorials/blob/master/encoderControl/part4.ino" target=”_blank”> encoderControl/part4/part4.ino </a> 
-<a href="https://youtu.be/dTGITLnYAY0"> <img src="https://youtu.be/dTGITLnYAY0/0.jpg" width="200px"> </a>
+##### Code: <a href="https://github.com/curiores/ArduinoTutorials/blob/master/encoderControl/part4/part4.ino" target=”_blank”> encoderControl/part4/part4.ino </a> 
+<a href="https://youtu.be/dTGITLnYAY0"> <img src="https://img.youtube.com/vi/dTGITLnYAY0/0.jpg" width="200px"> </a>
 <br>
